@@ -1,10 +1,7 @@
 ## Hi there 👋
 
 
-Welcome to my github pages.
-
-Thanks for you follow us!! :)
-
+Welcome to airdb.  Thanks for you follow us!! :)
 
 ## Tech stack
 
