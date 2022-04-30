@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+
+Welcome to my github pages.
+
+Thanks for you follow us!! :)
+
+
+## Tech stack
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,linux,bash,vim,git,kubernetes,docker,grafana,jenkins,nginx,nodejs,vscode,c,vue,go,lua,svg&perline=5)](https://skillicons.dev)
+
+
 <!--
 
 **Here are some ideas to get you started:**
