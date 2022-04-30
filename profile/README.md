@@ -8,7 +8,7 @@ Thanks for you follow us!! :)
 
 ## Tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,linux,bash,vim,git,kubernetes,docker,grafana,jenkins,nginx,nodejs,vscode,c,vue,go,lua,svg&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,linux,bash,vim,git,kubernetes,docker,grafana,jenkins,nginx,nodejs,vscode,c,vue,go,lua,svg&perline=10)](https://skillicons.dev)
 
 
 <!--
