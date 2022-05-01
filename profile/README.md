@@ -3,6 +3,8 @@
 
 Welcome to airdb.  Thanks for you follow us!! :)
 
+[Join us](https://github.com/airdb/mgmt/blob/main/Join_us.md)
+
 ## Tech stack
 
 [![My Skills](https://skillicons.dev/icons?i=github,aws,gcp,azure,linux,bash,vim,git&perline=10)](https://skillicons.dev)
