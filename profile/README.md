@@ -3,7 +3,7 @@
 
 Welcome to airdb.  Thanks for you follow us!! [Click here join us](https://github.com/airdb/mgmt/blob/main/Join_us.md) :)  
 
-CN Mirror: [Gitee](https://gitee.com/airdb)
+CN Mirror: [https://gitee.com/airdb](https://gitee.com/airdb)
 
 CN Site: [https://airdb.net](https://airdb.net)
 
