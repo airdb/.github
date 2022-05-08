@@ -12,9 +12,8 @@ CN Site: [https://airdb.net](https://airdb.net)
 <a href="https://airdb.github.io"><img width="240" align="right" src="https://raw.githubusercontent.com/deancn/deancn/main/imgs/qrcode_do_good_thing.png"></a>
 [![My Skills](https://skillicons.dev/icons?i=github,aws,gcp,azure&perline=6)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,vim,git&perline=6)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,jenkins,nginx,grafana&perline=10)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode,nodejs,vscode,c,vue,go,lua,unity,ts,py&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,jenkins,nginx,grafana&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,nodejs,vscode,c,vue,go,lua,unity,ts,py&perline=6)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=figma,svg,ps&perline=10)](https://skillicons.dev)
 
 
