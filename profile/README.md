@@ -1,5 +1,6 @@
-## Hi there 👋
+<a href="https://airdb.github.io"><img width="240" align="right" src="https://raw.githubusercontent.com/deancn/deancn/main/imgs/qrcode_do_good_thing.png"></a>
 
+## Hi there 👋
 
 Welcome to airdb.  Thanks for you follow us!! [join](https://github.com/airdb/mgmt/blob/main/Join_us.md) :)  
 
