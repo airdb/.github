@@ -10,7 +10,7 @@ CN Site: [https://airdb.net](https://airdb.net)
 
 ## Tech stack
 <a href="https://airdb.github.io"><img width="240" align="right" src="https://raw.githubusercontent.com/deancn/deancn/main/imgs/qrcode_do_good_thing.png"></a>
-[![My Skills](https://skillicons.dev/icons?i=github,aws,gcp,azure,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,aws,gcp,azure&perline=6)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,vim,git&perline=6)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,jenkins,nginx,grafana&perline=10)](https://skillicons.dev)
