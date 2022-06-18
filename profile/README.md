@@ -2,14 +2,10 @@
 ## Hi there 👋
 
 Welcome to airdb.  Thanks for you follow us!! [join](https://github.com/airdb/mgmt/blob/main/Join_us.md) :)  
-
-CN Mirror: [https://gitee.com/airdb](https://gitee.com/airdb)
-
 CN Site: [https://airdb.net](https://airdb.net)
 
 
 ## Tech stack
-<a href="https://airdb.github.io"><img width="240" align="right" src="https://raw.githubusercontent.com/deancn/deancn/main/imgs/qrcode_do_good_thing.png"></a>
 [![My Skills](https://skillicons.dev/icons?i=github,aws,gcp,azure,linux,bash,vim,git,kubernetes,docker,jenkins,nginx,grafana,vscode,nodejs,vscode,c,vue,go,lua,unity,ts,py,figma,svg,ps&perline=8)](https://skillicons.dev)
 
 
