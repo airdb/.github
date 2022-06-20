@@ -2,6 +2,7 @@
 ## Hi there 👋
 
 Welcome to airdb.  Thanks for you follow us!! [join](https://github.com/airdb/mgmt/blob/main/Join_us.md) :)  
+Wiki: [https://airdb.wiki](https://airdb.wiki)
 CN Site: [https://airdb.net](https://airdb.net)
 
 
