@@ -1,7 +1,6 @@
 #!/bin/bash
 
-WORKDIR=$HOME/.config/bash
-
+WORKDIR=$HOME/go/src/github.com/airdb/.github/bash
 
 source $WORKDIR/alias.sh
 source $WORKDIR/export.sh
