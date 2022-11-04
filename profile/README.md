@@ -5,12 +5,12 @@ Welcome to airdb.  Thanks for you follow us!!
 
 ## Community Contribution
 
-### BFE Project
+### Baidu BFE
 - Issue: https://github.com/bfenetworks/bfe/issues/1071
 - PR: https://github.com/bfenetworks/bfe/pull/1072
 
 ### Google Packet
-- PR:  https://github.com/google/gopacket/pull/1045/files
+- PR: https://github.com/google/gopacket/pull/1045
 
 - [Interested](https://github.com/airdb/mgmt/blob/main/Join_us.md) :)
 
