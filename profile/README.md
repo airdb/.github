@@ -12,7 +12,7 @@ Welcome to airdb.  Thanks for you follow us!!
 ### Google Packet
 - PR: https://github.com/google/gopacket/pull/1045
 
-- [Interested](https://github.com/airdb/mgmt/blob/main/Join_us.md) :)
+- [Interested, join us](https://github.com/airdb/mgmt/blob/main/Join_us.md) :)
 
 
 ## Tech stack
