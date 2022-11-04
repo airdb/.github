@@ -12,10 +12,11 @@ Welcome to airdb.  Thanks for you follow us!!
 ### Google Packet
 - PR: https://github.com/google/gopacket/pull/1045
 
-- [Interested, join us](https://github.com/airdb/mgmt/blob/main/Join_us.md) :)
-
 ### Ja3
 - PR: https://github.com/dreadl0ck/ja3/pull/12
+
+#### [Interested, join us](https://github.com/airdb/mgmt/blob/main/Join_us.md) :)
+
 
 ## Tech stack
 [![My Skills](https://skillicons.dev/icons?i=github,aws,gcp,azure,linux,bash,vim,git,kubernetes,docker,jenkins,nginx,grafana,vscode,nodejs,vscode,c,vue,go,lua,unity,ts,py,figma,svg,ps&perline=8)](https://skillicons.dev)
