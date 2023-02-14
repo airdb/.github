@@ -5,21 +5,10 @@ Welcome to airdb.  Thanks for you follow us!!
 
 ## Community Contribution
 
-### Baidu BFE
-- Issue: https://github.com/bfenetworks/bfe/issues/1071
-- PR: https://github.com/bfenetworks/bfe/pull/1072
+Personal Projects:  (Checkout!)[https://github.com/airdb/mgmt/blob/main/contribution/personal_project.md]
 
-### Google Packet
-- PR: https://github.com/google/gopacket/pull/1045
+Team Projects:  (Checkout!)[https://github.com/airdb/mgmt/blob/main/contribution/team_project.md]
 
-### Ja3
-- PR: https://github.com/dreadl0ck/ja3/pull/12
-- Repo: https://github.com/phuslu/nginx-ssl-fingerprint
-
-### Wechat
-- Repo: https://github.com/esap/wechat
-
-#### [Interested, join us](https://github.com/airdb/mgmt/blob/main/Join_us.md) :)
 
 
 ## Tech stack
