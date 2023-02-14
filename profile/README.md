@@ -5,9 +5,9 @@ Welcome to airdb.  Thanks for you follow us!!
 
 ## Community Contribution
 
-Personal Projects:  (Checkout!)[https://github.com/airdb/mgmt/blob/main/contribution/personal_project.md]
+Personal Projects:  [Checkout!](https://github.com/airdb/mgmt/blob/main/contribution/personal_project.md)
 
-Team Projects:  (Checkout!)[https://github.com/airdb/mgmt/blob/main/contribution/team_project.md]
+Team Projects:  [Checkout!](https://github.com/airdb/mgmt/blob/main/contribution/team_project.md)
 
 
 
