@@ -1,7 +1,8 @@
 
 ## Hi there 👋
 
-Welcome to airdb.  Thanks for you follow us!! Join [Discord](https://discord.gg/Mp4xttEqnF) to known more about us.
+Welcome to airdb.  Thanks for you follow us!! 
+Join [Discord](https://discord.gg/Mp4xttEqnF) to known more about us.
 
 ## Community Contribution
 
