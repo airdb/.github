@@ -11,7 +11,7 @@ Personal Projects:  [Checkout!](https://github.com/airdb/mgmt/blob/main/contribu
 
 Team Projects:  [Checkout!](https://github.com/airdb/mgmt/blob/main/contribution/team_project.md)
 
-
+[https://airdb.wiki](https://airdb.wiki): Just for reference if you are willing to code with us.
 
 ## Tech stack
 [![My Skills](https://skillicons.dev/icons?i=github,aws,gcp,azure,linux,bash,vim,git,kubernetes,docker,jenkins,nginx,grafana,vscode,nodejs,vscode,c,vue,go,lua,unity,ts,py,figma,svg,ps&perline=8)](https://skillicons.dev)
