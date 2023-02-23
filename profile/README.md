@@ -5,13 +5,13 @@ Welcome to airdb.  Thanks for you follow us!!
 
 Join [Discord](https://discord.gg/Mp4xttEqnF) to known more about us.
 
+[https://airdb.wiki](https://airdb.wiki): Just for reference if you are willing to code with us.
+
 ## Community Contribution
 
 Personal Projects:  [Checkout!](https://github.com/airdb/mgmt/blob/main/contribution/personal_project.md)
 
 Team Projects:  [Checkout!](https://github.com/airdb/mgmt/blob/main/contribution/team_project.md)
-
-[https://airdb.wiki](https://airdb.wiki): Just for reference if you are willing to code with us.
 
 ## Tech stack
 [![My Skills](https://skillicons.dev/icons?i=github,aws,gcp,azure,linux,bash,vim,git,kubernetes,docker,jenkins,nginx,grafana,vscode,nodejs,vscode,c,vue,go,lua,unity,ts,py,figma,svg,ps&perline=8)](https://skillicons.dev)
