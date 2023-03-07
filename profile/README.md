@@ -7,6 +7,9 @@ Join [Discord](https://discord.gg/Mp4xttEqnF) to known more about us.
 
 ## Community Contribution
 
+> **Tip for new contributors:**
+> Take a look at [https://github.com/firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) for helpful information on contributing.
+
 [https://airdb.wiki](https://airdb.wiki): Just for reference if you are willing to code with us.
 
 Personal Projects:  [Checkout!](https://airdb.wiki/mgmt/team/contribution/personal_project.html)
