@@ -3,8 +3,6 @@
 
 Welcome to airdb.  Thanks for you follow us!! 
 
-Join [Discord](https://discord.gg/Mp4xttEqnF) to known more about us.
-
 ## Community Contribution
 
 > **Tip for new contributors:**
@@ -12,9 +10,11 @@ Join [Discord](https://discord.gg/Mp4xttEqnF) to known more about us.
 
 [https://airdb.wiki](https://airdb.wiki): Just for reference if you are willing to code with us.
 
-Personal Projects:  [Checkout!](https://airdb.wiki/mgmt/team/contribution/personal_project.html)
 
-Team Projects:  [Checkout!](https://airdb.wiki/mgmt/team/contribution/team_project.html)
+### Contact
+![Wechat](https://img.shields.io/badge/-xairdb-green?style=flat&logo=Wechat&logoColor=white)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/xairdb)
+[![Chat Server](https://img.shields.io/badge/chat-discord-7289da.svg)](https://discord.gg/FSWXq4DmEj)
 
 ## Tech stack
 [![My Skills](https://skillicons.dev/icons?i=github,aws,gcp,azure,linux,bash,vim,git,kubernetes,docker,jenkins,nginx,grafana,vscode,nodejs,vscode,c,vue,go,lua,unity,ts,py,figma,svg,ps&perline=8)](https://skillicons.dev)
