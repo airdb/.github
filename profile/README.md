@@ -12,6 +12,7 @@ Welcome to airdb.  Thanks for you follow us!!
 
 
 ### Contact
+![](https://img.shields.io/github/stars/airdb?color=fefb7b&?style=plastic&logo=appveyor)
 ![Wechat](https://img.shields.io/badge/-xairdb-green?style=flat&logo=Wechat&logoColor=white)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/xairdb)
 [![Chat Server](https://img.shields.io/badge/chat-discord-7289da.svg)](https://discord.gg/FSWXq4DmEj)
