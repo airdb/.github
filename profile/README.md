@@ -16,7 +16,7 @@ Welcome to airdb.  Thanks for you follow us!!
 [![Chat Server](https://img.shields.io/badge/chat-discord-7289da.svg)](https://discord.com/invite/Mp4xttEqnF)
 
 ## Tech stack
-[![My Skills](https://skillicons.dev/icons?i=github,aws,gcp,azure,linux,bash,vim,git,kubernetes,docker,jenkins,nginx,grafana,vscode,nodejs,vscode,c,vue,go,lua,unity,ts,py,figma,svg,ps&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,aws,gcp,azure,linux,bash,vim,git,kubernetes,docker,jenkins,nginx,grafana,vscode,nodejs,vscode,c,vue,go,lua,unity,ts,py,figma,svg,ps&perline=10)](https://skillicons.dev)
 
 
 <!--
