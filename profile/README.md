@@ -3,6 +3,10 @@
 
 Welcome to airdb.  Thanks for you follow us!! 
 
+## Recently airdb news
+- China: [https://airdb.cn](https://airdb.cn)
+- Global: [https://airdb.com](https://airdb.com)
+
 ## Community Contribution
 
 > **Tip for new contributors:**
