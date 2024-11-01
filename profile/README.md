@@ -19,6 +19,8 @@ Welcome to airdb.  Thanks for you follow us!!
 ![Wechat](https://img.shields.io/badge/-xairdb-green?style=flat&logo=Wechat&logoColor=white)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/xairdb)
 [![Chat Server](https://img.shields.io/badge/chat-discord-7289da.svg)](https://discord.com/invite/Mp4xttEqnF)
+[![Chat Server](https://img.shields.io/discord/1068358113180262501?label=Discord&logo=discord)(https://discord.com/invite/Mp4xttEqnF)
+
 
 ## Tech stack
 [![My Skills](https://skillicons.dev/icons?i=github,cloudflare,aws,gcp,azure,linux,ubuntu,bash,vim,git,kubernetes,docker,jenkins,nginx,grafana,vscode,nodejs,astro,c,vue,go,lua,unity,ts,py,postgres,redis,raspberrypi,figma,svg,ps,fediverse&perline=10)](https://skillicons.dev)
