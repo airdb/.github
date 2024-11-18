@@ -36,9 +36,8 @@ Welcome to airdb.  Thanks for you follow us!!
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## DEI (Diversity, Equity & Inclusion) at Airdb
+## DEI at Airdb
 
-Diversity, equity and inclusion are important, interdependent components of our workplace. As an equal opportunity employer, we firmly believe that diverse voices fuel our innovation and allow us to better serve our users and the community. We foster an environment where every employee of Tencent feels supported and inspired to achieve individual and common goals.
-
+Diversity, equity, and inclusion are essential and interdependent components of our team. As a team that values equal opportunities, we firmly believe that diverse perspectives drive our innovation and enable us to better serve our users and the community. We strive to create an environment where every member of the Airdb team feels supported and inspired to achieve both individual and shared goals.
 
 Better Tech Better Life
